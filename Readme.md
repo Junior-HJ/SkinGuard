@@ -1,7 +1,7 @@
 
 **Instalación de la app SkinGuard**
 
-<iframe width="560" height="315" src="https://github.com/Junior-HJ/SkinGuard/raw/main/videos/intro.mp4" frameborder="0" allowfullscreen></iframe>
+https://github.com/Junior-HJ/SkinGuard/raw/main/videos/intro.mp4
 
 =============================
 
