@@ -15,7 +15,7 @@ La app SkinGuard se descarga desde la release en formato APK. Para instalar la a
 4. El sistema operativo Android te pedirá confirmación para instalar la app. Haz clic en "Aceptar" para proceder con la instalación.
 5. La app SkinGuard se instalará en tu dispositivo y estará lista para usar.
 
-**Descarga la última versión de la app SkinGuard** 💻🔴 [Descargar](https://github.com/SkinGuardApp/SkinGuardApp/releases/latest/download/SkinGuardApp.apk)
+**Descarga la última versión de la app SkinGuard** 💻🔴 [Descargar](https://github.com/Junior-HJ/SkinGuard/releases/latest/download/SkinGuard.apk)
 
 **Nota**
 ======
